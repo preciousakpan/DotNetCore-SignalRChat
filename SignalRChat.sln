@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{3B34D2CA-E1B3-4510-89BA-DFD59213B3EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soloride-ride-pooling", "..\soloride-chat-pooling\soloride-ride-pooling.csproj", "{C55ED8CD-F9BC-4326-A47A-B82BDF0730AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B34D2CA-E1B3-4510-89BA-DFD59213B3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B34D2CA-E1B3-4510-89BA-DFD59213B3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B34D2CA-E1B3-4510-89BA-DFD59213B3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55ED8CD-F9BC-4326-A47A-B82BDF0730AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55ED8CD-F9BC-4326-A47A-B82BDF0730AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55ED8CD-F9BC-4326-A47A-B82BDF0730AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55ED8CD-F9BC-4326-A47A-B82BDF0730AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
